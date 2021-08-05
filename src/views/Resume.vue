@@ -8,13 +8,13 @@
       <tr>
         <td>
           <ul>
-            <p>Technical Consultant</p>
+            <p>
+              Managed Services Consultant<br />
+              for Enterprise Content Management (OPENTEXT Content Server
+              Software)
+            </p>
             <p>AppTier LLC in Denver, CO</p>
             <p>April 2019-October 2019</p>
-            <li>
-              Managed Services Consultant for Enterprise Content Management
-              (OPENTEXT Content Server Software)
-            </li>
             <li>
               Installation and management of software a Windows Server and
               application software
