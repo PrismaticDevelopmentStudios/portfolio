@@ -1,9 +1,9 @@
 <template>
   <div class="home">
-    <div class="title">Matthew Brignola</div>
+    <div class="title-one">Matthew Brignola's</div>
     <div class="title">Sample Web Development Portfolio</div>
-    <div class="title">My Github</div>
     <div class="title">
+      My Github:
       <a id="blue" href="https://github.com/PrismaticDevelopmentStudios"
         >https://github.com/PrismaticDevelopmentStudios</a
       >
@@ -105,5 +105,10 @@ td:hover {
 }
 #blue:hover {
   color: blue;
+}
+.title-one {
+  font-size: 2.5em;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: 600;
 }
 </style>
