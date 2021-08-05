@@ -19,7 +19,7 @@
               >Reaction Timer</a
             >
           </h1>
-          - This site was built with the Vue.js framework and utilizes the
+          This site was built with the Vue.js framework and utilizes the
           scripting capabilities I used to build a basic reaction timer which
           displays different output based on JavaScript timing functions.
         </td>
@@ -29,7 +29,7 @@
               >Calendar</a
             >
           </h1>
-          - This is a simple example of JavaScript's date and time functions.
+          This is a simple example of JavaScript's date and time functions.
         </td>
         <td @click="animals">
           <h1>
@@ -37,7 +37,7 @@
               >Cute Animals</a
             >
           </h1>
-          - This site is an example of using anchor tags with hrefs to create
+          This site is an example of using anchor tags with hrefs to create
           links within webpages.
         </td>
         <td @click="media">
@@ -54,7 +54,7 @@
               >Tic-Tac-Toe</a
             >
           </h1>
-          - This site is an example of Vue.js functional methods and web design.
+          This site is an example of Vue.js functional methods and web design.
         </td>
       </tr>
     </table>
