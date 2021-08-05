@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: rgb(148, 198, 255);
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+.title {
+    text-align: center;
+    font-weight: 600;
+    font-size: 2em;
+}
+
+table {
+    background: white;
+    border-radius: 15px;
+}
