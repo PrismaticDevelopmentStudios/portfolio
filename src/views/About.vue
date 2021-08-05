@@ -27,4 +27,9 @@ export default {};
 </script>
 
 <style scoped>
+p {
+  text-indent: 2em;
+  text-align: left;
+  margin: 1%;
+}
 </style>
