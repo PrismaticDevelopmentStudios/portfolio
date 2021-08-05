@@ -101,11 +101,14 @@ export default {
 h1 {
   margin: 0;
 }
-
+table {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
 td:hover {
   background: wheat;
 }
-
 td {
   cursor: pointer;
   text-align: left;
