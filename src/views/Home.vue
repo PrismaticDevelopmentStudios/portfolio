@@ -51,7 +51,7 @@
               >Tic-Tac-Toe</a
             >
           </h1>
-          - This site is another example of JavaScript timing functions.
+          - This site is example of Vue.js functional methods and web design.
         </td>
       </tr>
     </table>
