@@ -102,6 +102,7 @@ td {
 }
 td:hover {
   border-radius: 15px;
+  box-shadow: 1px 2px 3px rgb(0, 0, 0, 0.5);
 }
 #blue:hover {
   color: blue;
