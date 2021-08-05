@@ -4,7 +4,10 @@
     <div class="title">Sample Web Development Portfolio</div>
     <div class="title">
       My Github:
-      <a id="blue" href="https://github.com/PrismaticDevelopmentStudios"
+      <a
+        id="blue"
+        href="https://github.com/PrismaticDevelopmentStudios"
+        target="_blank"
         >https://github.com/PrismaticDevelopmentStudios</a
       >
     </div>
