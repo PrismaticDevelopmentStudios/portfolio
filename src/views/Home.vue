@@ -43,7 +43,7 @@
               >Media Site</a
             >
           </h1>
-          This site is a mock media companies website, with booking links.
+          This site is a mock media company's website, with booking links.
         </td>
         <td @click="tic">
           <h1>
