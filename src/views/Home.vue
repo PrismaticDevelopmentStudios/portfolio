@@ -23,6 +23,8 @@
           scripting capabilities I used to build a basic reaction timer which
           displays different output based on JavaScript timing functions.
         </td>
+      </tr>
+      <tr>
         <td @click="calendar">
           <h1>
             <a href="https://prismatic-calendar.netlify.app" target="_blank"
@@ -31,6 +33,8 @@
           </h1>
           This is a simple example of JavaScript's date and time functions.
         </td>
+      </tr>
+      <tr>
         <td @click="animals">
           <h1>
             <a href="https://cute-animals.netlify.app" target="_blank"
@@ -40,6 +44,8 @@
           This site is an example of using anchor tags with hrefs to create
           links within webpages.
         </td>
+      </tr>
+      <tr>
         <td @click="media">
           <h1>
             <a href="https://checkmate-media.netlify.app" target="_blank"
@@ -48,6 +54,8 @@
           </h1>
           This site is a mock media company's website, with booking links.
         </td>
+      </tr>
+      <tr>
         <td @click="tic">
           <h1>
             <a href="https://primatic-tic-tac-toe.netlify.app/" target="_blank"
