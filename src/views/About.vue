@@ -13,6 +13,13 @@
             within my Express application to connect to a MySQL database API
             that I run on my local computer.
           </p>
+          <p>
+            My understanding and knoweldege of JavaScript data structures and
+            SQL allows me to be able to build complex web applications that can
+            dynamically edit and update data. I taught myself how to use Vue.js
+            in order to better apply dynamic properites to edit and create data
+            within the web applications I build.
+          </p>
         </td>
       </tr>
       <tr>

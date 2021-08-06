@@ -13,6 +13,16 @@
     </div>
     <table>
       <tr>
+        <td @click="tic">
+          <h1>
+            <a href="https://primatic-tic-tac-toe.netlify.app/" target="_blank"
+              >Tic-Tac-Toe</a
+            >
+          </h1>
+          This site is an example of Vue.js functional methods and web design.
+        </td>
+      </tr>
+      <tr>
         <td @click="reaction">
           <h1>
             <a href="https://reaction-timer.netlify.app" target="_blank"
@@ -27,11 +37,15 @@
       <tr>
         <td @click="calendar">
           <h1>
-            <a href="https://prismatic-calendar.netlify.app" target="_blank"
+            <a
+              href="https://prismatic-vue-calendar.netlify.app/"
+              target="_blank"
               >Calendar</a
             >
           </h1>
-          This is a simple example of JavaScript's date and time functions.
+          This is a front end calendar made with Vue.js's JavaScript date and
+          time functions. Each month the pages css class changes making the
+          background a different color. Also each day
         </td>
       </tr>
       <tr>
@@ -55,16 +69,6 @@
           This site is a mock media company's website, with booking links.
         </td>
       </tr>
-      <tr>
-        <td @click="tic">
-          <h1>
-            <a href="https://primatic-tic-tac-toe.netlify.app/" target="_blank"
-              >Tic-Tac-Toe</a
-            >
-          </h1>
-          This site is an example of Vue.js functional methods and web design.
-        </td>
-      </tr>
     </table>
   </div>
 </template>
@@ -82,7 +86,7 @@ export default {
       window.open("https://reaction-timer.netlify.app", "_blank");
     },
     calendar() {
-      window.open("https://prismatic-calendar.netlify.app", "_blank");
+      window.open("https://prismatic-vue-calendar.netlify.app/", "_blank");
     },
     animals() {
       window.open("https://cute-animals.netlify.app");
