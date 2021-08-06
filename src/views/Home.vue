@@ -27,11 +27,14 @@
       <tr>
         <td @click="calendar">
           <h1>
-            <a href="https://prismatic-calendar.netlify.app" target="_blank"
+            <a
+              href="https://prismatic-vue-calendar.netlify.app/"
+              target="_blank"
               >Calendar</a
             >
           </h1>
-          This is a simple example of JavaScript's date and time functions.
+          This is a front end calendar made with Vue.js's JavaScript date and
+          time functions.
         </td>
       </tr>
       <tr>
@@ -82,7 +85,7 @@ export default {
       window.open("https://reaction-timer.netlify.app", "_blank");
     },
     calendar() {
-      window.open("https://prismatic-calendar.netlify.app", "_blank");
+      window.open("https://prismatic-vue-calendar.netlify.app/", "_blank");
     },
     animals() {
       window.open("https://cute-animals.netlify.app");
