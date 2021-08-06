@@ -18,8 +18,9 @@
             SQL allows me to be able to build complex web applications that can
             dynamically create and update data. I taught myself how to use
             Vue.js in order to better apply dynamic JavaScript funstionality to
-            edit and manipulate data within the web applications I build. Again,
-            I am working here with online wervices so I have not been able to
+            edit and manipulate data within the web applications I build. I am
+            working here with free online wervices, specifically Netlify, which
+            has Vue.js publishing capabilities. so I have not been able to
             publish a website database software installed because I do not own a
             domain. If I could, I would publish a web application with a Vue.js
             frontend, an Express.js and Node.js API, and a MySQL backend. All of
