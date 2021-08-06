@@ -111,13 +111,14 @@ table {
   margin-right: auto;
   padding: 3%;
 }
+
 td:hover {
   background: wheat;
 }
 td {
   cursor: pointer;
   text-align: left;
-  padding: 1%;
+  padding: 5%;
 }
 td:hover {
   border-radius: 15px;
