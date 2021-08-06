@@ -109,6 +109,7 @@ table {
   width: 50%;
   margin-left: auto;
   margin-right: auto;
+  padding: 3%;
 }
 td:hover {
   background: wheat;
