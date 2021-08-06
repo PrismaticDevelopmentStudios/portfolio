@@ -2,7 +2,11 @@
   <div class="main">
     <div class="line1">Matthew Brignola</div>
     <div class="line1 link">
-      <a href="mailto:matthewbrignola@ymail.com">matthewbrignola@ymail.com</a>
+      <a
+        href="mailto:matthewbrignola@ymail.com"
+        title="Click to send me an email"
+        >matthewbrignola@ymail.com</a
+      >
     </div>
     <div class="line1">719-351-5828</div>
     <table>
