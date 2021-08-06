@@ -21,11 +21,15 @@
             Vue.js in order to better apply dynamic JavaScript functionality to
             edit and manipulate data within the web applications I build. I am
             working here with free online wervices, specifically Netlify, which
-            has Vue.js publishing capabilities. so I have not been able to
-            publish a website database software installed because I do not own a
-            domain. If I could, I would publish a web application with a Vue.js
-            frontend, an Express.js and Node.js API, and a MySQL backend. All of
-            which I know how to develop and create on my local machine.
+            has Vue.js publishing capabilities, so I have not been able to
+            publish a website that has database software installed because I do
+            not own a domain. If cost was not a variable, I would publish a web
+            application with a Vue.js frontend, an Express.js and Node.js API,
+            and a MySQL backend. All of which I know how to develop and create
+            on my local machine. Given my general understanding of SQl I can
+            work with other RDBMS software but on my local machine I prefer to
+            use MySQL because of the Node.js modules available to install with
+            NPM (Node Package Manager).
           </p>
         </td>
       </tr>
