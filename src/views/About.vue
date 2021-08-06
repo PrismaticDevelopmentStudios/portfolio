@@ -50,4 +50,7 @@ p {
   text-align: left;
   margin: 1%;
 }
+table {
+  padding: 3%;
+}
 </style>
