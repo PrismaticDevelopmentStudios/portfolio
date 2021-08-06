@@ -8,11 +8,11 @@
             and JavaScript. This website is itself an example of a Vue.js web
             app. The front end presentation should speak for itself, but what I
             was unable to demonstrate with this website was my knowledge of
-            Node.js and MySQL. I have built websites that use the Vue.js
-            frontend framework along with Axios.js to connect to an Express.js
-            (Node.js web server) application. I use a MySQL module within my
-            Express application to connect to a MySQL database API that I run on
-            my local computer.
+            Node.js and SQL. I have built websites that use the Vue.js frontend
+            framework along with Axios.js to connect to an Express.js (Node.js
+            web server) application. I use a MySQL module within my Express
+            application to connect to a MySQL database API that I run on my
+            local computer.
           </p>
           <p>
             My understanding and knoweldege of JavaScript data structures and
