@@ -5,19 +5,20 @@
         <td>
           <p>
             This website is meant to show my general understanding of HTML, CSS,
-            and JavaScript. The front end presentation should speak for itself,
-            but what I was unable to demonstrate with this website was my
-            knowledge of Node.js and MySQL. I have built websites that use the
-            Vue.js frontend framework along with Axios.js to connect to an
-            Express.js (Node.js web server) application. I use a MySQL module
-            within my Express application to connect to a MySQL database API
-            that I run on my local computer.
+            and JavaScript. This website is itself an example of a Vue.js web
+            app. The front end presentation should speak for itself, but what I
+            was unable to demonstrate with this website was my knowledge of
+            Node.js and MySQL. I have built websites that use the Vue.js
+            frontend framework along with Axios.js to connect to an Express.js
+            (Node.js web server) application. I use a MySQL module within my
+            Express application to connect to a MySQL database API that I run on
+            my local computer.
           </p>
           <p>
             My understanding and knoweldege of JavaScript data structures and
             SQL allows me to be able to build complex web applications that can
             dynamically create and update data. I taught myself how to use
-            Vue.js in order to better apply dynamic JavaScript funstionality to
+            Vue.js in order to better apply dynamic JavaScript functionality to
             edit and manipulate data within the web applications I build. I am
             working here with free online wervices, specifically Netlify, which
             has Vue.js publishing capabilities. so I have not been able to
