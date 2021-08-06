@@ -45,7 +45,7 @@
           </h1>
           This is a front end calendar made with Vue.js's JavaScript date and
           time functions. Each month the pages' css class changes making the
-          background a different color.
+          background a different color
         </td>
       </tr>
       <tr>

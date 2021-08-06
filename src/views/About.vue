@@ -26,10 +26,10 @@
             not own a domain. If cost was not a variable, I would publish a web
             application with a Vue.js frontend, an Express.js and Node.js API,
             and a MySQL backend. All of which I know how to develop and create
-            on my local machine. Given my general understanding of SQl I can
-            work with other RDBMS software but on my local machine I prefer to
-            use MySQL because of the Node.js modules available to install with
-            NPM (Node Package Manager).
+            on my local machine. Given my general understanding of SQL, I can
+            work with other RDBMS software such as Postgres or MariaDB, but on
+            my local machine I prefer to run MySQL because of the Node.js
+            modules available for installation with NPM (Node Package Manager).
           </p>
         </td>
       </tr>
