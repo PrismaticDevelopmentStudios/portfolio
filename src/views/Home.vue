@@ -118,7 +118,7 @@ td:hover {
 td {
   cursor: pointer;
   text-align: left;
-  padding: 5%;
+  padding: 3%;
 }
 td:hover {
   border-radius: 15px;
