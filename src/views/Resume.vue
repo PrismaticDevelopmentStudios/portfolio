@@ -1,7 +1,9 @@
 <template>
   <div class="main">
     <div class="line1">Matthew Brignola</div>
-    <div class="line1">matthewbrignola@ymail.com</div>
+    <div class="line1">
+      <a href="mailto:matthewbrignola@ymail.com">matthewbrignola@ymail.com</a>
+    </div>
     <div class="line1">719-351-5828</div>
     <table>
       <p class="large">Work Experience</p>
