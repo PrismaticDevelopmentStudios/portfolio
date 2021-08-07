@@ -125,7 +125,7 @@ td:hover {
   box-shadow: 1px 2px 3px rgb(0, 0, 0, 0.5);
 }
 #blue:hover {
-  color: blue;
+  color: purple;
 }
 .title-one {
   font-size: 2.5em;
