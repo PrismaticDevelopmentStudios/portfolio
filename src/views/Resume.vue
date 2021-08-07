@@ -126,4 +126,7 @@ p {
 .link {
   text-decoration: underline;
 }
+a:hover {
+  color: purple;
+}
 </style>
