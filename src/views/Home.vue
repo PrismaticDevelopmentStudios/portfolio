@@ -7,6 +7,7 @@
       <a
         id="blue"
         href="https://github.com/PrismaticDevelopmentStudios"
+        title="Link to my public Github account"
         target="_blank"
         >https://github.com/PrismaticDevelopmentStudios</a
       >
