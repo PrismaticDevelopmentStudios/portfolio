@@ -107,7 +107,7 @@ h1 {
   margin: 0;
 }
 table {
-  width: 50%;
+  width: 80%;
   margin-left: auto;
   margin-right: auto;
   padding: 3%;
