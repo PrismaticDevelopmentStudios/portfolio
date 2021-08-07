@@ -33,9 +33,6 @@
           </p>
         </td>
       </tr>
-      <tr>
-        <td></td>
-      </tr>
     </table>
   </div>
 </template>
